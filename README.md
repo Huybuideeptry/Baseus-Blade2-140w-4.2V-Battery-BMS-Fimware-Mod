@@ -38,6 +38,16 @@ Cũng trong thư mục này tìm thư mục con Devices
 Tải về copy toàn bộ thư mục CMSemicon em có đính kèm trên bài và paste vào thư mục này là xong 
 <img width="1364" height="744" alt="image" src="https://github.com/user-attachments/assets/f16377f9-356c-4d75-8228-0fd0d10f65fb" />
 
+Ae mở phần Mềm Jflash vừa cài lên, nhấn vào dấu ... ở mục Target Devices, sổ mục Manufacturer lên thấy dòng CMSemicon là thành công rồi nhé 
+<img width="1146" height="879" alt="image" src="https://github.com/user-attachments/assets/b60415e1-8b1b-42c7-9d03-a12bc3feb621" />
+<img width="1146" height="885" alt="image" src="https://github.com/user-attachments/assets/54fb3d6f-1a39-4212-82b6-c4bbf1803a09" />
+Chọn chip rồi nhấn Ok, các thông số còn lại để mặc định rồi Nhấn OK là xong bước tạo chip nạp
+<img width="1146" height="885" alt="image" src="https://github.com/user-attachments/assets/ac1bbad2-4c24-4620-833a-1b9813430973" />
+<img width="1147" height="880" alt="image" src="https://github.com/user-attachments/assets/fab7ef73-943c-4894-a6fd-c2eb46a64525" />
+
+
+
+
 
 
 
