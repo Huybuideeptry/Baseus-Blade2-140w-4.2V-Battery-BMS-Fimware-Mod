@@ -54,6 +54,10 @@ Chọn file 140.bin vừa tải về, nhấn Ok là được
 Hiện ra như thế này là xong bước chuẩn bị Firmware
 <img width="1145" height="878" alt="image" src="https://github.com/user-attachments/assets/d38c3c4d-54ae-4018-bff1-3d53ce2e9734" />
 
+Đến phần mạch BMS, ae tìm hàng 4 chân có ký hiệu như này 
+<img width="356" height="502" alt="image" src="https://github.com/user-attachments/assets/ca757386-b547-416e-b731-bc0e96723851" />
+
+
 
 
 
