@@ -41,8 +41,20 @@ Tải về copy toàn bộ thư mục CMSemicon em có đính kèm trên bài v�
 Ae mở phần Mềm Jflash vừa cài lên, nhấn vào dấu ... ở mục Target Devices, sổ mục Manufacturer lên thấy dòng CMSemicon là thành công rồi nhé 
 <img width="1146" height="879" alt="image" src="https://github.com/user-attachments/assets/b60415e1-8b1b-42c7-9d03-a12bc3feb621" />
 <img width="1146" height="885" alt="image" src="https://github.com/user-attachments/assets/54fb3d6f-1a39-4212-82b6-c4bbf1803a09" />
+
 Chọn chip rồi nhấn Ok, các thông số còn lại để mặc định rồi Nhấn OK là xong bước tạo chip nạp
 <img width="1147" height="880" alt="image" src="https://github.com/user-attachments/assets/fab7ef73-943c-4894-a6fd-c2eb46a64525" />
+
+File có tên 140.bin là file firmware của mạch BMS, ae tải về sau đó trong phần mềm Jflash bấm mục file chọn Open Data file
+<img width="1145" height="879" alt="image" src="https://github.com/user-attachments/assets/f093c8ea-ffa4-4074-9197-9cb5bbf543d5" />
+
+Chọn file 140.bin vừa tải về, nhấn Ok là được 
+<img width="1143" height="877" alt="image" src="https://github.com/user-attachments/assets/bf650798-0ca8-45d9-aad9-771b6c3aa864" />
+
+Hiện ra như thế này là xong bước chuẩn bị Firmware
+<img width="1145" height="878" alt="image" src="https://github.com/user-attachments/assets/d38c3c4d-54ae-4018-bff1-3d53ce2e9734" />
+
+
 
 
 
