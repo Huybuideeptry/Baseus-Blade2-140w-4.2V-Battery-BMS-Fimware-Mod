@@ -61,8 +61,11 @@ Hiện ra như thế này là xong bước chuẩn bị Firmware
 Nối dây tương ứng vào mạch nạp JlinkOB như sau: 
 
 5V ----> VCC
+
 G  ----> GND
+
 A  ----> SWDIO
+
 L  ----> SWCLK
 
 
