@@ -54,6 +54,8 @@ Chọn file 140.bin vừa tải về, nhấn Ok là được
 Hiện ra như thế này là xong bước chuẩn bị Firmware
 <img width="1145" height="878" alt="image" src="https://github.com/user-attachments/assets/d38c3c4d-54ae-4018-bff1-3d53ce2e9734" />
 
+Lưu ý: trước khi tiến hành nạp fw ae nên rút hết pin ra cho mạch mất nguồn hoàn toàn rồi mới bắt đầu nạp nhé
+
 Đến phần mạch BMS, ae tìm hàng 4 chân có ký hiệu như này 
 
 <img width="369" height="490" alt="image" src="https://github.com/user-attachments/assets/ed776a3c-4490-41ac-b29f-b970e2473111" />
@@ -68,7 +70,16 @@ A  ----> SWDIO
 
 L  ----> SWCLK
 
+Pad hàn của 4 chân này rất nhỏ, ae lưu ý hàn cẩn thận không để chì dính chân này với chân nọ không là đi luôn cả mạch đấy
 
+Kết nối với mạch nạp xong, cắm vào máy tính, đèn đỏ trên mạch BMS sáng chứng tỏ chip đã có nguồn
+
+Ae quay lại phần mềm Jflash bấm chọn Target ở trên cùng ---> chọn Connect
+<img width="1146" height="877" alt="image" src="https://github.com/user-attachments/assets/c2199872-b4ad-4fd6-9dee-4b753b53abcc" />
+
+Để ý phần Log phía bên dưới, bấm xong mà thấy phần mềm load ra được đầy đủ thông số chip, bộ nhớ, vùng flash, .... thì đã kết nối thành công
+
+Nếu báo lỗi không tìm được chip thì ae xem lại chỗ hàn hoặc đảo 2 dây SWDIO và SWCLK lại là được.
 
 
 
