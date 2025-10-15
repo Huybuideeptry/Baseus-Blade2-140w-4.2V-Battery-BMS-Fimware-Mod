@@ -1,9 +1,14 @@
 # Baseus-Blade2-140w-4.2V-Battery-BMS-Fimware-Mod
-1 bản firmware mod cho mạch bảo vệ của basues blade2 bản 140w thay đổi điện áp ngắt pin từ 4.4 nguyên bản về 4.2 thông dụng cho đa số các dòng pin
+1 bản firmware mod cho mạch bảo vệ của Baseus Blade2 bản 140w thay đổi điện áp ngắt pin từ 4.4 nguyên bản về 4.2 thông dụng cho đa số các dòng pin
 
 Sau đây là phần hướng dẫn ae cách nạp firmware cho mạch bms mà mình có tổng hợp được từ các fapsu và chỉnh sửa để phù hợp và dễ dàng nhất để ae đều làm được
 
 Các linh kiện cần thiết cho việc nạp lại firware bao gồm mạch nạp Jlink OB và phần mềm Jflash 
+
+Đây là mạch nạp JlinkOB sẽ dùng cho việc flash lại Firmware vào chip trên mạch BMS
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/31a63559-b288-4a6e-92fb-1f003f33918b" />
+
+Ae nào chưa có thì em có để link mua ở đây: https://shopee.vn/Ob-ARM-Emulator-Debugger-L%E1%BA%ADp-tr%C3%ACnh-vi%C3%AAn-Tr%C3%ACnh-t%E1%BA%A3i-xu%E1%BB%91ng-M%C3%B4-ph%E1%BB%8Fng-Thay-th%E1%BA%BF-V8-SWD-M74-STM32-t%E1%BA%A3i-xu%E1%BB%91ng-cho-Arduino-J-Link-TYPE-C-USB-i.1057548384.24975822917?sp_atk=c27345a9-a94e-44bb-bf42-dac37c11158e&xptdk=c27345a9-a94e-44bb-bf42-dac37c11158e
 
 Link tải Jflash: https://www.segger.com/downloads/jlink/
 
