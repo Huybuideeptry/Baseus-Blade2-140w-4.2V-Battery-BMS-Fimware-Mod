@@ -56,11 +56,16 @@ Hiện ra như thế này là xong bước chuẩn bị Firmware
 
 Đến phần mạch BMS, ae tìm hàng 4 chân có ký hiệu như này 
 
-<img width="356" height="502" alt="image" src="https://github.com/user-attachments/assets/ca757386-b547-416e-b731-bc0e96723851" />
+<img width="369" height="490" alt="image" src="https://github.com/user-attachments/assets/ed776a3c-4490-41ac-b29f-b970e2473111" />
 
 Nối dây tương ứng vào mạch nạp JlinkOB như sau: 
 
-5V---->
+5V ----> VCC
+G  ----> GND
+A  ----> SWDIO
+L  ----> SWCLK
+
+
 
 
 
