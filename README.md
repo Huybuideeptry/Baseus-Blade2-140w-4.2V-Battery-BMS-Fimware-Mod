@@ -20,8 +20,23 @@ Tiếp đến kéo xuống chọn Phiên bản V6.48 rồi bấm tải về
 
 Sau khi tải về xong ae mở lên tiến hành cái như bình thường là được
 
-Đến trang này thì chọn như hình rồi bấm Install là xong
+Đến trang này thì chọn như hình rồi bấm Install là xong (Ae nhớ để ý đường dẫn thư mục cài nhé để lát thêm chip vào trong Jflash)
 <img width="813" height="488" alt="image" src="https://github.com/user-attachments/assets/de9b44cf-e76d-4737-a7d2-f12be558c72f" />
+
+Giờ đến phần thêm chip vào trong Jflash, ae mở theo đường dẫn thư mục lúc cài, tìm thư mục SEGGER
+<img width="1353" height="735" alt="image" src="https://github.com/user-attachments/assets/ea5c71ab-f8f8-4824-8670-98df02b4f4e4" />
+
+Vào bên trong thư mục SEGGER, chọn Jlink_V648, tìm file có tên như này 
+<img width="1348" height="743" alt="image" src="https://github.com/user-attachments/assets/dc314bd1-9336-44ef-b040-8abbcd75098f" />
+
+
+
+
+
+
+
+
+
 
 
 
