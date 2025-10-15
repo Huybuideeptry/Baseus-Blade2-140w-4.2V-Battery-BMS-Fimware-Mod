@@ -29,6 +29,20 @@ Giờ đến phần thêm chip vào trong Jflash, ae mở theo đường dẫn t
 Vào bên trong thư mục SEGGER, chọn Jlink_V648, tìm file có tên như này 
 <img width="1348" height="743" alt="image" src="https://github.com/user-attachments/assets/dc314bd1-9336-44ef-b040-8abbcd75098f" />
 
+Tải file JLinkDevices.xml em có đính trên bài này, rồi paste vào thư mục trên, nhấn continue là xong 
+<img width="1343" height="744" alt="image" src="https://github.com/user-attachments/assets/057dcbdf-7e5a-4aac-bb17-8f58342215ad" />
+
+Cũng trong thư mục này tìm thư mục con Devices
+<img width="1357" height="739" alt="image" src="https://github.com/user-attachments/assets/97b292fd-95cd-441c-807a-0d861a2db556" />
+
+Tải về copy toàn bộ thư mục CMSemicon em có đính kèm trên bài và paste vào thư mục này là xong 
+<img width="1364" height="744" alt="image" src="https://github.com/user-attachments/assets/f16377f9-356c-4d75-8228-0fd0d10f65fb" />
+
+
+
+
+
+
 
 
 
