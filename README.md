@@ -58,6 +58,10 @@ Hiện ra như thế này là xong bước chuẩn bị Firmware
 
 <img width="356" height="502" alt="image" src="https://github.com/user-attachments/assets/ca757386-b547-416e-b731-bc0e96723851" />
 
+Nối dây tương ứng vào mạch nạp JlinkOB như sau: 
+
+5V---->
+
 
 
 
