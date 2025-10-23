@@ -81,6 +81,16 @@ Ae quay lại phần mềm Jflash bấm chọn Target ở trên cùng ---> chọ
 
 Nếu báo lỗi không tìm được chip thì ae xem lại chỗ hàn hoặc đảo 2 dây SWDIO và SWCLK lại là được.
 
+Ae tiếp tục nhấn vào mục Target -> Manual Programming -> Program and Verify
+<img width="1145" height="875" alt="image" src="https://github.com/user-attachments/assets/23318ade-f9c4-4d7b-9680-d86eda4b96f8" />
+
+Phần mềm sẽ tiến hành nạp fw, nếu trong quá trình chạy ae thấy đã Program xong đến phần verify mà phần mềm báo error thì quay lại bước trên nhưng chọn qua Program là được
+
+
+
+
+
+
 
 
 
